@@ -4,7 +4,7 @@
 
 ## Description
 
-It is a project in which a ReadMe.md file is generated just by answering a few prompts
+It is an application where users can generate ReadMe.md files by just answering a few prompts
 
 ## Table of Contents
 
@@ -16,11 +16,11 @@ It is a project in which a ReadMe.md file is generated just by answering a few p
 
 ## Installation
 
-A link to this repo will be included, where any user can just clone this repo to their local machine
+A link to the repository will be listed so users can then clone it to their local machine
 
 ## Usage
 
-It can be used to create ReadMe.md files quickly to save some time
+It will be used to save time by generating ReadMe.md files by just answering a few question saving time
 
 ## License
 
@@ -28,7 +28,7 @@ This project is licensed under the MIT License. For more information, please vis
 
 ## Contributing
 
-Any contributions can be addressed to me where I will try to make them all be fullfilled
+Any contribution can be addressed with me by contacting me (links will be provided) and I will do my best to make every suggestion a reality
 
 ## Questions
 
@@ -36,7 +36,7 @@ If you have any questions about the repo, open an issue or contact me directly a
 
 ## Link to Repository
 
-http;//github.com/SergMart7/readmegenerator
+http://github.com/SergMart7/readmegenerator
 
 ## Screenshots
 

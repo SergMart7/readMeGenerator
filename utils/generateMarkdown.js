@@ -79,7 +79,7 @@ If you have any questions about the repo, open an issue or contact me directly a
 
 ## Link to Repository
 
-http;//github.com/${data.github}/${data.repo}
+http://github.com/${data.github}/${data.repo}
 
 ## Screenshots
 
