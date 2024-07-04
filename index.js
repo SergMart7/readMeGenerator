@@ -51,7 +51,12 @@ const questions = [
     {
         type: 'input',
         name: 'screenshots',
-        message: 'please provide the directory towards your screenshot',
+        message: 'Please provide the directory towards your screenshot',
+    },
+    {
+        type: 'input',
+        name: 'repo',
+        message: "What is the repository's name?",
     },
 ];
 

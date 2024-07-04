@@ -77,6 +77,10 @@ ${data.contributions}
 
 If you have any questions about the repo, open an issue or contact me directly at ${data.email}. You can find more of my work at [${data.github}](https://github.com/${data.github}).
 
+## Link to Repository
+
+http;//github.com/${data.github}/${data.repo}
+
 ## Screenshots
 
 ![Screenshot of our page](${data.screenshots})
