@@ -48,6 +48,11 @@ const questions = [
         name: 'email',
         message: 'What is your email address',
     },
+    {
+        type: 'input',
+        name: 'screenshots',
+        message: 'please provide the directory towards your screenshot',
+    },
 ];
 
 // FUNCTION TO WRITE A README
