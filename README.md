@@ -1,10 +1,10 @@
-# ReadMe Generator
+# Express Note Taker
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 ## Description
 
-It is an application where users can generate ReadMe.md files by just answering a few prompts
+It is a note taker that leaves your notes on a serve, where you will de able to add and deletein order to take note accurately
 
 ## Table of Contents
 
@@ -16,19 +16,19 @@ It is an application where users can generate ReadMe.md files by just answering 
 
 ## Installation
 
-A link to the repository will be listed so users can then clone it to their local machine
+A link will be provided to copy files from my Github repository
 
 ## Usage
 
-It will be used to save time by generating ReadMe.md files by just answering a few question saving time
+To take notes
 
 ## License
 
-This project is licensed under the MIT License. For more information, please visit [this link](https://opensource.org/licenses/MIT).
+This project is licensed under the Apache 2.0 License. For more information, please visit [this link](https://opensource.org/licenses/Apache-2.0).
 
 ## Contributing
 
-Any contribution can be addressed with me by contacting me (links will be provided) and I will do my best to make every suggestion a reality
+Any ideas are open to reviews and great ideas will be tried to be made a reality
 
 ## Questions
 
@@ -36,9 +36,9 @@ If you have any questions about the repo, open an issue or contact me directly a
 
 ## Link to Repository
 
-http://github.com/SergMart7/readmegenerator
+http://github.com/SergMart7/expressjsnotestaker
 
 ## Screenshots
 
-![Screenshot of our page](./images/lambart.jpeg)
+![Screenshot of our page](./images/ss1.png)
 
